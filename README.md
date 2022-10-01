@@ -34,7 +34,7 @@ Feel free to refactor anything as needed for clean code!
 
 This project does not make use of a database. 
 The only thing needed is to configure your local web server to point to the document root which is `apps/pls/www`.
-For example, the virtual host configuration might look like:
+For example, the virtual host configuration might look like: 
 
 ### Apache
 ```apacheconf
